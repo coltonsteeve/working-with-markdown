@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://coltonsteeve.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Source](https://github.com/coltonsteeve/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
 
@@ -71,7 +71,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
+![vscode image](https://github.com/coltonsteeve/working-with-markdown/blob/master/vscode.PNG "Example local image")
 
 ## Paragraphs
 
@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Colton Steeve
 
-dcase@nwmissouri.edu
+s518813@nwmissouri.edu
 
 ## New Section 
 
