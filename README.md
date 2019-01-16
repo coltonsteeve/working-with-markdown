@@ -68,7 +68,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/4/4d/Tteokbokki.JPG "Tteokbokki")
+!(https://upload.wikimedia.org/wikipedia/commons/4/4d/Tteokbokki.JPG "Tteokbokki")
 
 ## Displaying Local Images
 
