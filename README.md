@@ -74,7 +74,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![Tteokbokki](https://github.com/coltonsteeve/working-with-markdown/blob/master/Teokbokki.PNG "Example local image")
+![Tteokbokki](https://github.com/coltonsteeve/working-with-markdown/blob/master/Teokbokki.JPG "Example local image")
 
 ## Paragraphs
 
