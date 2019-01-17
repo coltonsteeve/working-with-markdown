@@ -7,6 +7,13 @@ A short README.md that explains how to get started with Markdown, a super-simple
 - [Source](https://github.com/coltonsteeve/working-with-markdown "Working With Markdown Source")
 - [Northwest Website](https://www.nwmissouri.edu "Northwest Website")
 
+## Food List
+
+1. Tacos
+1. Curry
+1. Tteokbokki
+1. Katsudon
+
 ## Getting Started
 
 1. Login to GitHub.
